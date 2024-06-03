@@ -12,6 +12,7 @@ services:
         python manage.py makemigrations
         python manage.py migrate
         echo "WEB: Migrations process done ..."
+        python manage.py runserver 0.0.0.0:8000
     ports:
       - 8000:8000
     volumes:
