@@ -18,7 +18,7 @@
 - За кожним оголошенням всі наявні зображення зберігаються списком. 
 
 ## Запуск проекту 
-- git clone https://github.com/kolesnikdi/dZENcode.git
+- git clone https://github.com/kolesnikdi/DataOx.git
 - cd .\DataOx\autoria_scraping
 - docker-compose up --build
 - Запуск скрапінгу всього сайту. Термінал Docker -> autoria_scraping -> web-1 `python manage.py run_autoria_scraping `

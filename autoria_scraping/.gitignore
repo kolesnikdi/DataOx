@@ -18,6 +18,7 @@ media/
 staticfiles/
 .idea/
 ../.idea/
+/.idea/
 static/
 /static/
 dumps/
